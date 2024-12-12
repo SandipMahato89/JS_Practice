@@ -35,8 +35,18 @@ let booleanIsNum = Boolean(isNum);
 
 let data = 33;
 let stringNumber = String(33);
-console.log(stringNumber);
-console.log(typeof data);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof data);
+// console.log(typeof stringNumber);
 
 // this conversion are very much helpful as we create any forms there we can make validation check whether the entered by the user is string or number accordingly we can proceed futher with requirement as the browser give mostly the strings values
+
+// **********************************************************************************************
+
+let value = 33;
+let negValue = -value;
+console.log(negValue);
+
+// console.log(2 ** 3);
+
+let str1 = "hello";
